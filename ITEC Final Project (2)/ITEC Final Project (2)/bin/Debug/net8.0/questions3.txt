@@ -1,0 +1,40 @@
+Which property can be used to find the length of a string in C#?
+getLength()
+length
+>Length
+How do you call a method in C#?
+class myObj = new MyClass();
+>MyClass myObj = new MyClass();
+new myObj = new MyClass();
+What is the name of the 'special' class that represents a group of constants?
+>enum
+const
+special
+How do you create a method in Java?
+methodName[]
+(methodName)
+>methodName()
+How do you call a method in Java?
+methodName[];
+methodName;
+>methodName();
+Which keyword is used to import a package from the Java API library?
+>import
+getlib
+package
+How do you create a variable with the numeric value 5 in Python?
+x = int(5)
+x = 5
+>Both 1 and 2 are correct
+What is the correct way to create a function in Python?
+function myfunction():
+>def myFunction():
+declare myFunction():
+What is the correct syntax to output the type of a variable or object in Python?
+>print(type(x))
+print(typeOf(x))
+print(typeof(x))
+How do you start writing a while loop in Python?
+while (x < y)
+while x < y {
+>while x < y:

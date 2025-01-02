@@ -1,0 +1,14 @@
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\bin\Debug\net8.0\ITEC Final Project (2).exe
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\bin\Debug\net8.0\ITEC Final Project (2).deps.json
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\bin\Debug\net8.0\ITEC Final Project (2).runtimeconfig.json
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\bin\Debug\net8.0\ITEC Final Project (2).dll
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\bin\Debug\net8.0\ITEC Final Project (2).pdb
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).AssemblyInfo.cs
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).dll
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\refint\ITEC Final Project (2).dll
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).pdb
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ITEC Final Project (2).genruntimeconfig.cache
+C:\Users\mario\source\repos\ITEC Final Project (2)\ITEC Final Project (2)\obj\Debug\net8.0\ref\ITEC Final Project (2).dll

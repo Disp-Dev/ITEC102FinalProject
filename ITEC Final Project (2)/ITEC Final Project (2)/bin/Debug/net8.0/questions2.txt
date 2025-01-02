@@ -1,0 +1,40 @@
+C# is an alias of C++?
+>False
+True
+Both 1 and 2 are correct
+The value of a string variable can be surrounded by single quotes.
+True
+Both 1 and 3 are correct
+>False
+In Python, 'Hello', is the same as "Hello"
+Both 2 and 3 are correct
+>True
+False
+Java is short for "JavaScript".
+True
+Both 1 and 3 are correct
+>False
+In C#, it is possible to inherit fields and methods from one class to another.
+False
+>True
+Both 1 and 2 are correct
+Type casting is when you assign a value of one data type to another type.
+>True
+Both A and C are correct
+False
+In Java, it is possible to inherit attributes and methods from one class to another.
+Both 2 and 3 are correct
+False
+>True
+Python uses indentation to define blocks of code.
+>True
+Both 1 and 3 are correct
+False
+Java code can run without being compiled into bytecode.
+True
+>False
+Both A and B are correct
+10. Python requires semicolons to end every statement.
+Both 2 and 3 are correct
+True
+>False
